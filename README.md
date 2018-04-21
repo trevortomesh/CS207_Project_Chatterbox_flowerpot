@@ -3,7 +3,7 @@ Project name: Plant overwatch chatterbox
 =======
 
 Picture:
-![](https://github.com/HuyueLi98/CS207_Project_Chatterbox_flowerpot/blob/master/Images/IMG_1516.JPG)
+![]Images/IMG_1516.JPG)
 Circuit:
 ![](https://github.com/HuyueLi98/CS207_Project_Chatterbox_flowerpot/blob/master/Images/Circuit%20of%20my%20project.jpg)
 
