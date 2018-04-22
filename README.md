@@ -1,5 +1,4 @@
-# CS207_Project
-Project name: Plant overwatch chatterbox
+# Plant Overwatch Chatterbox
 =======
 
 Picture:
@@ -8,7 +7,7 @@ Circuit:
 ![](https://github.com/HuyueLi98/CS207_Project_Chatterbox_flowerpot/blob/master/Images/Circuit%20of%20my%20project.jpg)
 
 
-Please note that you need to connect the adafruit wave shield to the Arduino Uno.And connect the Speaker to Adafruit wave shield.
+Please note that you need to connect the adafruit wave shield to the Arduino Uno and connect the Speaker to Adafruit wave shield.
 
 Introduction
 ----
@@ -17,14 +16,14 @@ At the same time, I want to bring happiness to people through this project. We o
 
 Repository content
 ----
-    src/ :The arduino code that needed to run the project. 
-    sound_new/ : The example sound file. 
+    src/ :The arduino code that needed to run the project.
+    sound_new/ : The example sound file.
     Images/:the circuit picture and the finishied pictures in it.
 Required items:
 ----
     -Arduino UNO
     -Temperature and Light Sensor
-    -ADAFRUIT WAVE SHIELD KIT FOR SOUND, MUSIC & AUDIO 
+    -ADAFRUIT WAVE SHIELD KIT FOR SOUND, MUSIC & AUDIO
     -Speaker
     -An RGB LED
     -Flowerpot and plant
@@ -32,15 +31,15 @@ Required items:
     -1 X 220 ohm resistor
     -SD card
     -iron solder
-    
-    
+
+
 Library
 -----
 WaveHC by adafruit:https://github.com/adafruit/WaveHC
 
 Team
 ----
-Huyue Li :Design,Code,Build up,Test,Writing
+Huyue Li: Design,Code,Build up,Test,Writing
 
 
 Other resources
