@@ -36,13 +36,10 @@ Required items:
     -iron solder
 
 
-Library
+Libraries Used
 -----
 WaveHC by adafruit:https://github.com/adafruit/WaveHC
-
-Team
-----
-Huyue Li: Design, Code, Build up, Test, Writing
+Time Library: https://playground.arduino.cc/Code/Time
 
 
 Other resources
