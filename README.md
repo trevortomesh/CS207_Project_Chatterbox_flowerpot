@@ -14,12 +14,12 @@ At the same time, I want to bring happiness to people through this project. We o
 
 Repository content
 ----
-    src/ :The arduino code that needed to run the project.
-      - main/ :Main arduino sketch folder
-      - libraries/ :Required arduino libraries not included in standard IDE.
-    sound/ :Old sound files -- not implamented
-    sound_new/ :The example sound file.
-    Images/ :the circuit picture and the finishied pictures in it.
+    src/ The arduino code that needed to run the project.
+      - main/ Main arduino sketch folder
+      - libraries/ Required arduino libraries not included in standard IDE.
+    sound/ Old sound files -- not implamented
+    sound_new/ New sound files imaplamented.
+    Images/ the circuit picture and the finishied pictures in it.
 Required items:
 ----
     -Arduino UNO
