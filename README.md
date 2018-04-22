@@ -1,10 +1,9 @@
 # Plant Overwatch Chatterbox
 =======
 
-Picture:
 ![](https://github.com/trevortomesh/CS207_Project_Chatterbox_flowerpot/blob/master/Images/IMG_1516.JPG)
-Circuit:
-![](https://github.com/HuyueLi98/CS207_Project_Chatterbox_flowerpot/blob/master/Images/Circuit%20of%20my%20project.jpg)
+
+![](https://github.com/trevortomesh/CS207_Project_Chatterbox_flowerpot/blob/master/Images/Circuit%20of%20my%20project.jpg)
 
 
 Please note that you need to connect the adafruit wave shield to the Arduino Uno and connect the Speaker to Adafruit wave shield.
