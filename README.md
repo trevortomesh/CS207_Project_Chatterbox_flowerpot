@@ -40,7 +40,7 @@ WaveHC by adafruit:https://github.com/adafruit/WaveHC
 
 Team
 ----
-Huyue Li: Design,Code,Build up,Test,Writing
+Huyue Li: Design, Code, Build up, Test, Writing
 
 
 Other resources
