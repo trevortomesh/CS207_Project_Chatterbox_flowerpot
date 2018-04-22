@@ -1,4 +1,6 @@
-# Plant Overwatch Chatterbox
+# Chatterbox Plant Overwatch System
+
+Forked from Huyue Li (https://github.com/HuyueLi98/CS207_Project_Chatterbox_flowerpot)
 
 ![](https://github.com/trevortomesh/CS207_Project_Chatterbox_flowerpot/blob/master/Images/IMG_1516.JPG)
 
