@@ -1,5 +1,4 @@
 # Plant Overwatch Chatterbox
-=======
 
 ![](https://github.com/trevortomesh/CS207_Project_Chatterbox_flowerpot/blob/master/Images/IMG_1516.JPG)
 
@@ -16,8 +15,11 @@ At the same time, I want to bring happiness to people through this project. We o
 Repository content
 ----
     src/ :The arduino code that needed to run the project.
-    sound_new/ : The example sound file.
-    Images/:the circuit picture and the finishied pictures in it.
+      - main/ :Main arduino sketch folder
+      - libraries/ :Required arduino libraries not included in standard IDE.
+    sound/ :Old sound files -- not implamented
+    sound_new/ :The example sound file.
+    Images/ :the circuit picture and the finishied pictures in it.
 Required items:
 ----
     -Arduino UNO
